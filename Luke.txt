@@ -1,0 +1,11 @@
+Luke;What was the colour of Luke's very first lightsaber?;blue; green; red;purple;a
+Luke;What did luke almost get killed by on hoth;Wampa;Tawn-tawn;Vader;Leia;a
+Luke;Who was jealous of luke;Han Solo;Leia;R2D2;Chewy;d
+Luke;What did yoda give luke;His lightsaber;OverConfidence;Reality;Trust;a
+Luke;What ship does luke fly;X-Wing;Y-Wing;Y-Bomber;Malovence;a
+Luke;Who's lukes mother;Padme;Leia;Organa;Yoda;a
+Luke;Who's lukes father;Vader;Palpatine;Jim;Kylo;a
+Luke;What episode does luke join the force;8;9;10;1;a
+Luke;Who does Luke train;Kylo;Windu;Fisto;Cap;a
+Luke;Who seeks out luke;Rey;C3PO;Chewy;HanSolo;a
+

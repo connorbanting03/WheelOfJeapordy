@@ -1,0 +1,10 @@
+Star Wars;which actor is the only one who's appeared in every single "Star Wars" movie to date?;C3PO;Leia Organa; Luke Skywalker; Qui-Gon Jinn;D
+Star Wars;Which stormtrooper wasn't able to complete his mission in "Star Wars: The Force Awakens?";FN-2187;FN-2188;FN-2189;FN-2186;A
+Star Wars;What kind of vehicle did Rey live in?AT-AT;AT-St;Star Destroyer;Mos Elisy Cantina;C
+Star Wars;According to Master Yoda, how many Sith are always out there?2;1;4;3;B
+Star Wars;What happened to Anakin Skywalker during the battle with Count Dooku?;He lost his right arm;He lost his left leg;He lost;General Grevious blew him up;A
+Star Wars;Who does Darth Vader dislike the most;Director Krenic;Admiral Piett;General Veers;Grand Admiral Thrawn;a
+Star Wars;Asokha from the clone wars is who's padawan;Anakin;Obi-Wan;Master Dooku;Yoda;a
+Star Wars;Captian Rex is from which squad in the grand republic;501st;219th;53nd;1st;a
+Star Wars;Which bounty hunter does mace windu kill on the first battle of geonisis;Jango Fett;Boba Fett;Cad Bane;Zam Wasell;a
+Star Wars;What planet is Darth Maul from;Dathamere;Endor;Midgard;Earth;a

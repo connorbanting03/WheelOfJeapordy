@@ -1,0 +1,10 @@
+Anakin;Where does Qui-Gon go to meet Anakin;Tatooine;Dantooine;Coruscant;Dagobah;a
+Anakin;Who does Anakin fall in love with;Padme;Leia;Palpatine;Rey;a
+Anakin;Which Episode does Anakin have visions about his dieing mother;2;1;3;7;a
+Anakin;Which Episode does Anakin have visions of padme dieing;3;2;1;4;a
+Anakin;Which hand did Anakin;Right;Left;Not this one,Not this one either;a
+Anakin;Who was Anakin's father;He has no father;Snoke:Darth Plaguuies;Obi-Wan;a
+Anakin;Who are Anakin's Children;Luke and Leia;Han Solo;Lilo and Stitch; Rey and Ben Solo;a
+Anakin;Who does Anakin become; Darth Vader;Darth Maul;Darth Sidious;Darth Nihilus;a
+Anakin;What does Anakin not like;Sand;Roses;Cactus's;Padme;a
+Anakin:Why was Anakin refused training;He was too old;He looked funny;Jedi hate kids;Everyone was too higher

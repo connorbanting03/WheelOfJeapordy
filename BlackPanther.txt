@@ -1,0 +1,11 @@
+Black Panther;What Kingdom does the Black Panther rule?Wakanda;Rewanda;Sokovia;America;a
+Black Panther;What is Wakanda's most precious resource;Vibranium;Paledium;Lithium;Uranium;a
+Black Panther;Which Herb grants Black Panther his powers;Heart Herb;Comet Herb;Sun Herb;Cat Herb;a
+Black Panther;Who is T'Challa's sister;Shuri;Akati;Nakia;Romanda;d
+Black Panther;Who does T'Challa "rescue" from the Boko Haram;Nakia;Shuri;Okoye;Ramonda;c
+Black Panther;What does Killmonger steal from the muesuem;Axe;Mask;Shield;Spear;a
+Black Panther;Who challenges T'Challa?Killmonger;N'jobu;W'kabi;M'Baku;d
+Black Panther;Who does T'Challa see on the Ancestral Plane;His Father;Uncle;Bast;The first black panther;a
+Black Panther;Who takes a bullet for Nakia;Ross;Okoye;Shuri;T'Challa;a
+Black Panther;What does Killmonger do with all of the remaining heart shaped herb;Burns it;Consumes it;Freezes it;Sells it;a
+

@@ -1,0 +1,10 @@
+Wanda;Where is Westview located;New Jersey;New York;Seattle;North Carolina;a
+Wanda;Finish this quote,"We are an ___ couple.";Unusual;Crazy;Abnormal;Wierd;b
+Wanda;Who is the nosy, but friendly neighbour;Agnes;Darcy;Dottie;Jessica;a
+Wanda;What was agnes's bunny's name;Senor Scratchy;Fuzzy Ball;Snowy;Snoopy;a
+Wanda;What are Wanda's twins' names;Billy and Tommy;William and Tom;Larry and Barry;Billy and Brandon;a
+Wanda;Where is Wanda from;Sokovia;Pakistan;America;England;a
+Wanda;Which one is Wanda's sister;QuickSilver;Flash;Nick Fury;James Bond;a
+Wanda;What was Wanda and Vision's house number in Wandavision;2800;2700;2100;3245;a
+Wanda;Whats the name of the famous song from WandaVision;Agatha All Along;Aggie All Along;Riverboats;SickoMode;a
+Wanda;What was the name of the FBI agent investaging Westview;Jimmy Woo;Darcy Lewis;Monica Rambeau;Tyler Hayward;d

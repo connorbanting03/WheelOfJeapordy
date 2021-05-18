@@ -1,0 +1,10 @@
+Star Wars;Who killed Jabba?;Princess Leia;Luke Skywalker; C-3PO;BB-8;B
+Star Wars;Who wiped out all of the information about Kamino from the Jedi Temple archives?;Count Dooku;Yoda;Mace Windu;Sifo Dias;B
+Star Wars;What did Luke Skywalker lose in his fight with Darth Vader?His right hand;His Pride;His Lightsaber; His mum;B
+Star Wars;According to the Emperor, what was Luke Skywalker's weakness?His faith in his allies; His faith in the light side; His faith in his power; His faith in his father;B
+Star Wars;Where did the Clone Wars begin?;Geonsis;Tatooine;Naboo;Coruscant;B
+Star Wars;What did Jar Jar Binks end up owing Qui-Gon Jinn after being rescued by the same during the invasion of Naboo?A honor debt;A drink;10k Credits;A ship;C
+Star Wars;What did Owen Lars tell Luke Skywalker about his father?He was a navigator on a spice freightor;He was a jedi knight; He was a fighter polite;He was Darth Vader;A
+Star Wars;What is the color of C-3PO's arm in Star Wars: The Force Awakens?;Red;Blue;Green;White;A
+Star Wars;Who adopted Leia after Padme's death;Bail Organa;Han Solo;Captian Antilles;Moff Gidian;D
+Star Wars;What was the job that Finn told Han Solo he had at Starkiller base?Sanitation;Chef;Pilot;Guard;D

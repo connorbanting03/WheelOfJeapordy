@@ -1,0 +1,10 @@
+Iron Man;What colour was Iron Man's original armour;Grey;Red&Gold;Black&White;Yellow;B
+Iron Man;What real-life celebrity is Tony Stark based on?Howard Hughes;Errol Flynn;RDJr;John D. Rockefeller;A
+Iron Man;Where did iron man one originally take place;Afghanistan;Kuwait;Korea;Canada;D
+Iron Man;What part of Tony's armor kept him alive;Chest Plate;Helmet;Solar Tiles;Plasma Generators;D;
+Iron Man;What did Forbes estimate Tony's net worth to be;12Bil;8Bil;832Mil;6Bil;C
+Iron Man;Who is the stark family AI butler;Jarvis;Friday;Tuesday;Cindy;A
+Iron Man;Which of Tony's assoiciates fights crime as War Machine;James Rhodes;Happy Hogan;Aldrich Killianl;Pepper Potts;d
+Iron man;How old was Tony when he graduated from MIT?17;16;18;19;A
+Iron man;How did Tony's parents die;Murder;Car Accident;Plane Accident;Miscommunication;A
+Iron man;Who created iron man;All of the these;Jack Kirby;Stan Lee;Don Heck;A

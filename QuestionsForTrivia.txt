@@ -1,0 +1,43 @@
+MCU;Which actor plays thor;Chris;Robert;Bruce;Clint;D
+
+MCU;IRON MAN: What song plays at the beginning of the movie?;"Iron Man" by Black Sabbath; "Back in Black" by AC/DC;"Ordinary World" by Duran Duran;"Stairway to Heaven";B
+
+MCU;THE INCREDIBLE HULK: What does Tony tell Thaddeus Ross at the end of the film?;That he wants to study The Hulk; That he knows about S.H.I.E.L.D; That they are putting a team together; That Thaddeus owesmoney;C
+MCU;IRON MAN 2: What fake name does Natasha use when she first meets Tony?;Natalie Rushman;Agent Romanoff;Nicole Rohan;Naya Rabe;A;
+MCU;THOR: What does Thor want "another" of when he's in the diner?;A slice of pie;A piece of toast;A stack of pancakes; A cup of Coffee;D
+MCU;CAPTAIN AMERICA: THE FIRST AVENGER: Where does Peggy tell Steve she wants to meet him for a dance, before he plunges into the ice?The Cotton Club;The Stork Club;El Morocco;The Copacabana;B
+MCU;THE AVENGERS: Natasha remarks to Clint that the Battle of New York is a lot like what?Their time in Budapest;Their time in Prague;Their time in Istanbul;Their time in Sokovia;A
+MCU;IRON MAN 3: What is the name of the little boy Tony befriends while stranded?;Harry;Henry;Harley;Holden;C
+MCU;Which of these is NOT an infinity stone?Love;Reality;Space;Time;A
+MCU;What is Captain America's shield made out of?Gravitonium;Vibranium;Adamantium;Scabrite;B
+MCU;What country are Scarlet Witch and Quicksilver from?;Wakanda;Canada;Sokovia;England;C
+MCU;What's the name of the helpful AI Tony Stark invented to replace J.A.R.V.I.S.?;Shield;Ultron;Friday;Edith;C
+MCU;Who can lift Thor's hammer?;Coat Rack;Black Panther;Iron Man;John Walker;A;
+MCU;Which S.H.E.I.L.D. building is located in Washington, D.C.?;Stark Tower;The Hub;The Triskelion;The Fridge;C
+MCU;What is Tony Stark's dad's name?;Anthony;Steve;Howard;Edwin;C
+MCU;What species did Loki discover he is?;Human;Asgardian;Frost giant;A god;C
+MCU;Who is Hawkeye married to?;Wanda;Natasha;Bobbi;Laura;D
+MCU;Which of these characters is NOT a child of Thanos?Nebula;Vision;Gamora;Ronan;B
+MCU;What kind of animal does Captain Marvel befriend?;Cat;Dog;Goose;Bird;A
+MCU;How are Erik Killmonger and T'Challa related?Brothers;Uncle and Nephew;Cousins;Father and Son;C
+MCU;Who is Peter Parker's best friend?;Ned;MJ;Tony;Flash;A
+MCU;What kind of doctor is Dr. Strange?Neurosurgeon;General practitioner;Cardiologist;Oncologist;A;
+MCU;What museum has a Captain American exhibit?The Smithsonian;The Met;International Spy Museum;The GuggenHiem;A
+MCU;THOR: THE DARK WORLD: Where do Sif and Volstagg hide the Reality Stone at the end of the movie?On Vormir;In a vault on Asgard;Inside Sif's sword;They give it to the Collector
+MCU;CAPTAIN AMERICA: THE WINTER SOLDIER: What does the Winter Soldier say after Steve recognizes him for the first time?;"Who the hell is Bucky?";"Do I know you?";"He's gone.";"What did you say?";A
+MCU;AVENGERS: AGE OF ULTRON: What word does Tony utter that makes Steve say, "Language"?;"Crap!";"Asshole!";"Idiot";"Shit";D
+MCU;ANT-MAN: What animal does Darren Cross unsuccessfully shrink?;"Mouse";"Sheep";"Duck";"Hamster";B
+MCU;CAPTAIN AMERICA: CIVIL WAR: Who ISN'T on Iron Man's team?;Vision;Black Panther;Hawkeye;Black Widow;C;
+MCU;GUARDIANS OF THE GALAXY VOL. 2: Finish this line: "I'm _______, y'all!";Superman;Peter-Pan;Underdog;Mary Poppins;D
+MCU;THOR: RAGNAROK: What is Valkyrie's scrapper number?;3;16;142;232;C
+MCU;BLACK PANTHER: What do Killmonger and Klaue steal from the Museum of Great Britain?;Vibranium and a mask;Just vibranium;A map of Wakanda;A map of Wakanda and vibranium;A
+MCU;AVENGERS: INFINITY WAR: What elective class did Thor take on Asgard?;Learning to speak Groot;Hammer Making;Learning to fly a spaceship;How to take care of rabbits;A
+MCU;ANT-MAN AND THE WASP: Scott hid an old Ant-Man suit underneath a trophy. What did the trophy say?;Worlds Greatest dad;Worlds greatest superhero;World's Greatest Aunt;World's Greatest Grandma;D
+MCU;CAPTAIN MARVEL: What is Carol's nickname for Monica?;Sergant Danger;Commander Monica;Lieutenant Trouble;General Mo;C
+MCU;AVENGERS: ENDGAME: What is Natasha's final line before she sacrifices herself on Vormir?;"Let me go.";"It's okay.";"Tell everyone I ___";"Clint";A
+MCU;SPIDER-MAN: FAR FROM HOME: What necklace does Peter buy for M.J.?;A black dahlia necklace;A black sunflower necklace;A Saint Christoper necklace;An NYC skyline necklace;A
+
+
+
+
+

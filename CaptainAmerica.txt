@@ -1,0 +1,10 @@
+Captain America;Who was Captain America's sidekick during World War 2;Buckey;Peggy Carter;Jamal;Tony Stark;B
+Captain America;Which corporation comprised S.H.I.E.L.D;Hydra;Nazi's;Amazon;USSR;A
+Captain America;What was the shape of the first Captain America Shield;Badge;Circle;Square;Tesseract;A
+Captain America;Which S.H.E.I.L.D. building is located in Washington, D.C.?;The Triskelion;The Hub;Stark Tower;The Fridge;C
+Captain America;Who plays Captain America in the MCU;Chris Evans;Chris Pratt;Chris Hemsworth; Chris Johnson;A
+Captain America;What is Bucky's real first and middle name?;James Buchanan;Kyle Buchanan;Robert Buchwald;Not Mentioned;
+Captain America;In the first scene of "The first avenger" a solider scrapes away ice to reveal;Captain America's Shield;A face;A plane;A Boot;A
+Captain America;In what country was the Tesseract hidden originally;Norway;Albania;France;Germany;D
+Captain America;What specific part of New York is Steve Rogers from;Brookyln;Staten Island;Manhattan;we never are told;A
+Captain America;Steve meets the beautiful Agent Carter, what is her first name?;Peggy;Emily;Anne;Zelda;C

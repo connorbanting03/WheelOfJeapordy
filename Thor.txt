@@ -1,0 +1,10 @@
+Thor;What is the name of Thor's Hammer;Mjolnir;Asgard;Fernis;GunGnir;c
+Thor;Who is thor's father;Odin;Loki;Balder;Fernis;a
+Thor;Why can thor live forever;He eats apples;His enchanted hammer;He bathes in the black sea;hes a god;a
+Thor;Which aninimal pulls thor's chariot;Goats;Wolves;Bulls;Lions;D
+Thor;Who is thor's love interest;Jane Foster;Dinah Lance;Sharon Vale;Peggy Carter;a
+Thor;Who is thor's half brother; Balder;Heimdall;Hercules;Loki;a
+Thor;Odin adopted which ice giant as his own;Loki;Jermemy;Frank;Ragnarok;a
+Thor;Which of the following characters is an ice giant;Ymir;Ulik;Grog;Zarrko;a
+Thor;What is the asgardian name for earth;Midgard;Hel;Valhalla;Jotunhiem;a
+Thor;What is the Asgardian world tree called;Yggdrasil;Wyrd;Niflhiem;Hvegergelmir;a
